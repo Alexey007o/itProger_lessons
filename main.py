@@ -1,7 +1,4 @@
-#Lesson 3
-#Link: https://www.youtube.com/watch?v=ML5tP8m6SHw&list=PLDyJYA6aTY1lPWXBPk0gw6gR8fEtPDGKa&index=3
-print('Результат: ', 5, 154, ".", sep='|', end='\n')
-print('_ another text', round(5.2 / 2))
-#разработка комментариев
+#Lesson 4
+#Link: https://www.youtube.com/watch?v=DZvNZ9l9NT4&list=PLDyJYA6aTY1lPWXBPk0gw6gR8fEtPDGKa&index=4
 text = input("Введите ваш возраст: ")
 print(text + ". Столько ему лет.")
