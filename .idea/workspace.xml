@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09c3fdbb-d714-4384-be5c-4811f0da3575" name="Changes" comment="add files">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+    <list default="true" id="09c3fdbb-d714-4384-be5c-4811f0da3575" name="Changes" comment="some part, comments">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +16,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="develop" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,8 +34,9 @@
   "keyToString": {
     "Python.Python.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.prod.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "feature/video-3",
     "last_opened_file_path": "D:/Python/itProger/main.py",
     "settings.editor.selected.configurable": "PyConsoleConfigurable.Python Console"
   }
@@ -113,7 +114,31 @@
       <option name="project" value="LOCAL" />
       <updated>1718051285089</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add main file and youtube link">
+      <option name="closed" value="true" />
+      <created>1718051523580</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718051523580</updated>
+    </task>
+    <task id="LOCAL-00005" summary="init develop">
+      <option name="closed" value="true" />
+      <created>1718051610152</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718051610152</updated>
+    </task>
+    <task id="LOCAL-00006" summary="some part, comments">
+      <option name="closed" value="true" />
+      <created>1718051772281</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718051772281</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,7 +152,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="feature/video-3" />
                       </list>
                     </value>
                   </entry>
@@ -143,6 +168,9 @@
     <MESSAGE value="init project" />
     <MESSAGE value="add print and youtube link" />
     <MESSAGE value="add files" />
-    <option name="LAST_COMMIT_MESSAGE" value="add files" />
+    <MESSAGE value="add main file and youtube link" />
+    <MESSAGE value="init develop" />
+    <MESSAGE value="some part, comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="some part, comments" />
   </component>
 </project>
