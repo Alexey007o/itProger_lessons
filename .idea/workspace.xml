@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09c3fdbb-d714-4384-be5c-4811f0da3575" name="Changes" comment="some part, comments">
+    <list default="true" id="09c3fdbb-d714-4384-be5c-4811f0da3575" name="Changes" comment="some part, comments, special symbols">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -138,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718051772281</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="some part, comments, special symbols">
+      <option name="closed" value="true" />
+      <created>1718052757664</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718052757664</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,6 +179,7 @@
     <MESSAGE value="add main file and youtube link" />
     <MESSAGE value="init develop" />
     <MESSAGE value="some part, comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="some part, comments" />
+    <MESSAGE value="some part, comments, special symbols" />
+    <option name="LAST_COMMIT_MESSAGE" value="some part, comments, special symbols" />
   </component>
 </project>
